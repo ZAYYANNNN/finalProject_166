@@ -18,8 +18,8 @@ public:
 
 	virtual void cekUkuran() {}
 
-	void setY(int a, int b) {
-		this->y = a, b;
+	void setY(int a) {
+		this->y = a;
 	}
 	int getY(int a) {
 		return y;
